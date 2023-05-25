@@ -1,5 +1,6 @@
 a = 77
 b = 99
-sum = (a + b)
+c = 90
+sum = ( a + b + c)
 
 print (sum)
